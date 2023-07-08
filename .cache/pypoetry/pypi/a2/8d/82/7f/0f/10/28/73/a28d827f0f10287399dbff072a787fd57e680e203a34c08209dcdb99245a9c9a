@@ -1,0 +1,1 @@
+9999999999{"name": "gradio-client", "version": "0.2.5", "summary": "Python library for easily interacting with trained machine learning models", "platform": null, "requires_dist": ["fsspec", "httpx", "huggingface-hub>=0.13.0", "packaging", "requests", "typing-extensions", "websockets"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}
