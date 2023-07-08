@@ -48,8 +48,6 @@ We would like to acknowledge and express our gratitude to the following team and
 - [Indira Karmakar](link-to-profile):
 - [Mrinalika Handa](link-to-profile): 
 
-We extend our heartfelt appreciation to everyone who has directly or indirectly contributed to this project. Your efforts and support have been invaluable.
-
 If we have inadvertently missed acknowledging anyone, please accept our sincere apologies, and kindly let us know so that we can rectify it promptly.
 
 
