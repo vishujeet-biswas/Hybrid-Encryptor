@@ -45,7 +45,7 @@ For any questions, suggestions, or feedback, please feel free to contact us at "
 
 We would like to acknowledge and express our gratitude to the following team and projects for their contributions, inspiration, and support in the development of this project:
 
-- [Indira Karmakar](link-to-profile):
+- [Indira Karmakar](https://www.linkedin.com/in/indira-karmakar-31025a1b7/):
 - [Mrinalika Handa](link-to-profile): 
 
 If we have inadvertently missed acknowledging anyone, please accept our sincere apologies, and kindly let us know so that we can rectify it promptly.
